@@ -1,0 +1,16 @@
+How to use This file
+
+I think you had downloaded the Seeker an IPGeoloation Tools
+
+If you do know what is there Ip Address or to get location by sending links i this case you can use Seeker 
+
+If you know the victim IP address you can use IPGEOLOCATION TOOL 
+
+For more details 
+
+* About Seeker 
+https://github.com/thewhiteh4t/seeker.git
+
+* about IPGEOLOCATION TOOLS
+
+https://github.com/maldevel/IPGeoLocation.git
